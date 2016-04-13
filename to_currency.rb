@@ -3,7 +3,7 @@
 def to_currency(amount)
   dollars, decimal_point, cents = amount.to_f.round(2).to_s.partition(".")
 
-  dollars = dollars.reverse.scan(/.{3}|.+/).join(",").reverse
+  dollars = dollars.reverse.scan(/\d{1,3}/).join(",").reverse
   dollars.insert(0, "$")
 
   cents.insert(-1, "0") if cents.length < 2
