@@ -9,6 +9,8 @@ Solutions to the extra coding exercises in the program.
 * [How old is Teddy?](/101-109/how_old_is_teddy.rb)
 * [How big is the room?](/101-109/how_big_is_the_room_1.rb)
 * [How big is the room? – Further exploration](/101-109/how_big_is_the_room_2.rb)
+* [Tip calculator](/101-109/tip_calculator_1.rb)
+* [Tip calculator – Further exploration](/101-109/tip_calculator_2.rb)
 
 ## Misc Exercises
 
