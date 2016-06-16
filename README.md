@@ -1,8 +1,14 @@
-# Launch School - Coding Exercises
+# Launch School – Coding Exercises
 
-Solutions to the coding exercises in the program.
+Solutions to the extra coding exercises in the program.
 
-Other problems and challenges:
+## 101-109 Exercises
 
-* [to_currency](to_currency.rb)
-* [Combining numbers](combining_numbers.rb)
+### Easy 2
+
+* [How old is Teddy?](/101-109/how_old_is_teddy.rb)
+
+## Misc Exercises
+
+* [To Currency](/misc/to_currency.rb)
+* [Combining numbers](/misc/combining_numbers.rb)
