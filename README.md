@@ -11,6 +11,7 @@ Solutions to the extra coding exercises in the program.
 * [How big is the room? – Further exploration](/101-109/how_big_is_the_room_2.rb)
 * [Tip calculator](/101-109/tip_calculator_1.rb)
 * [Tip calculator – Further exploration](/101-109/tip_calculator_2.rb)
+* [When I will retire?](/101-109/when_i_will_retire.rb)
 
 ## Misc Exercises
 
