@@ -14,6 +14,8 @@ Solutions to the extra coding exercises in the program.
 * [When I will retire?](/101-109/when_i_will_retire.rb)
 * [Greeting a user](/101-109/greeting_a_user_1.rb)
 * [Greeting a user – Further exploration](/101-109/greeting_a_user_2.rb)
+* [Odd numbers](/101-109/odd_numbers.rb)
+* [Even numbers](/101-109/even_numbers.rb)
 
 ## Misc Exercises
 
