@@ -16,6 +16,8 @@ Solutions to the extra coding exercises in the program.
 * [Greeting a user – Further exploration](/101-109/greeting_a_user_2.rb)
 * [Odd numbers](/101-109/odd_numbers.rb)
 * [Even numbers](/101-109/even_numbers.rb)
+* [Sum or product of consecutive integers](/101-109/sum_or_product_of_consecutive_integers_1.rb)
+* [Sum or product of consecutive integers – Further exploration](/101-109/sum_or_product_of_consecutive_integers_2.rb)
 
 ## Misc Exercises
 
