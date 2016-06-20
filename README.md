@@ -24,6 +24,7 @@ Solutions to the extra coding exercises in the program.
 * [Searching 101](/101-109/searching_101.rb)
 * [Arithmetic integer](/101-109/arithmetic_integer.rb)
 * [Counting the number of characters](/101-109/counting_the_number_of_characters.rb)
+* [Multiplying two numbers](/101-109/multiplying_two_numbers.rb)
 
 ## Misc Exercises
 
