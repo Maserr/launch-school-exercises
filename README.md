@@ -22,6 +22,7 @@ Solutions to the extra coding exercises in the program.
 ### Easy 3
 
 * [Searching 101](/101-109/searching_101.rb)
+* [Arithmetic integer](/101-109/arithmetic_integer.rb)
 
 ## Misc Exercises
 
