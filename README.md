@@ -27,6 +27,7 @@ Solutions to the extra coding exercises in the program.
 * [Multiplying two numbers](/101-109/multiplying_two_numbers.rb)
 * [Squaring an argument](/101-109/squaring_an_argument_1.rb)
 * [Squaring an argument – Further exploration](/101-109/squaring_an_argument_2.rb)
+* [Exclusive or](/101-109/exclusive_or.rb)
 
 ## Misc Exercises
 
