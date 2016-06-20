@@ -19,6 +19,10 @@ Solutions to the extra coding exercises in the program.
 * [Sum or product of consecutive integers](/101-109/sum_or_product_of_consecutive_integers_1.rb)
 * [Sum or product of consecutive integers – Further exploration](/101-109/sum_or_product_of_consecutive_integers_2.rb)
 
+### Easy 3
+
+* [Searching 101](/101-109/searching_101.rb)
+
 ## Misc Exercises
 
 * [To Currency](/misc/to_currency.rb)
