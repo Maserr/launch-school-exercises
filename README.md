@@ -33,6 +33,7 @@ Solutions to the extra coding exercises in the program.
 * [Palindromic Strings - Part 1](/101-109/palindromic_strings_part_1_1.rb)
 * [Palindromic Strings - Part 1 – Further exploration](/101-109/palindromic_strings_part_1_2.rb)
 * [Palindromic Strings - Part 2](/101-109/palindromic_strings_part_2.rb)
+* [Palindromic numbers](/101-109/palindromic_numbers.rb)
 
 ## Misc Exercises
 
