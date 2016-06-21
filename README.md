@@ -30,6 +30,8 @@ Solutions to the extra coding exercises in the program.
 * [Exclusive or](/101-109/exclusive_or.rb)
 * [Odd lists](101-109/odd_lists_1.rb)
 * [Odd lists – Further exploration](101-109/odd_lists_2.rb)
+* [Palindromic Strings - Part 1](/101-109/palindromic_strings_part_1_1.rb)
+* [Palindromic Strings - Part 1 – Further exploration](/101-109/palindromic_strings_part_1_2.rb)
 
 ## Misc Exercises
 
