@@ -41,6 +41,8 @@ Solutions to the extra coding exercises in the program.
 * [What century is that?](/101-109/what_century_is_that.rb)
 * [Leap years - Part 1](/101-109/leap_years_part_1.rb)
 * [Leap years - Part 2](/101-109/leap_years_part_2.rb)
+* [Multiples of 3 and 5](/101-109/multiples_of_3_and_5_1.rb)
+* [Multiples of 3 and 5 – Further exploration](/101-109/multiples_of_3_and_5_2.rb)
 
 ## Misc Exercises
 
