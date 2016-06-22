@@ -38,6 +38,7 @@ Solutions to the extra coding exercises in the program.
 ### Easy 4
 
 * [Short long short](/101-109/short_long_short.rb)
+* [What century is that?](/101-109/what_century_is_that.rb)
 
 ## Misc Exercises
 
