@@ -43,6 +43,8 @@ Solutions to the extra coding exercises in the program.
 * [Leap years - Part 2](/101-109/leap_years_part_2.rb)
 * [Multiples of 3 and 5](/101-109/multiples_of_3_and_5_1.rb)
 * [Multiples of 3 and 5 – Further exploration](/101-109/multiples_of_3_and_5_2.rb)
+* [Running totals](/101-109/running_totals_1.rb)
+* [Running totals – Further exploration](/101-109/running_totals_2.rb)
 
 ## Misc Exercises
 
