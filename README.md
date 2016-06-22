@@ -40,6 +40,7 @@ Solutions to the extra coding exercises in the program.
 * [Short long short](/101-109/short_long_short.rb)
 * [What century is that?](/101-109/what_century_is_that.rb)
 * [Leap years - Part 1](/101-109/leap_years_part_1.rb)
+* [Leap years - Part 2](/101-109/leap_years_part_2.rb)
 
 ## Misc Exercises
 
