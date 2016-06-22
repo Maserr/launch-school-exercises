@@ -35,6 +35,10 @@ Solutions to the extra coding exercises in the program.
 * [Palindromic Strings - Part 2](/101-109/palindromic_strings_part_2.rb)
 * [Palindromic numbers](/101-109/palindromic_numbers.rb)
 
+### Easy 4
+
+* [Short long short](/101-109/short_long_short.rb)
+
 ## Misc Exercises
 
 * [To Currency](/misc/to_currency.rb)
