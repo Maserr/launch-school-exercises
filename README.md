@@ -45,6 +45,8 @@ Solutions to the extra coding exercises in the program.
 * [Multiples of 3 and 5 – Further exploration](/101-109/multiples_of_3_and_5_2.rb)
 * [Running totals](/101-109/running_totals_1.rb)
 * [Running totals – Further exploration](/101-109/running_totals_2.rb)
+* [Convert a string to a number!](/101-109/convert_a_string_to_a_number_1.rb)
+* [Convert a string to a number! – Further exploration](/101-109/convert_a_string_to_a_number_2.rb)
 
 ## Misc Exercises
 
