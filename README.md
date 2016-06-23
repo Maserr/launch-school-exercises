@@ -47,6 +47,7 @@ Solutions to the extra coding exercises in the program.
 * [Running totals – Further exploration](/101-109/running_totals_2.rb)
 * [Convert a string to a number!](/101-109/convert_a_string_to_a_number_1.rb)
 * [Convert a string to a number! – Further exploration](/101-109/convert_a_string_to_a_number_2.rb)
+* [Convert a string to a signed number!](/101-109/convert_a_string_to_a_signed_number.rb)
 
 ## Misc Exercises
 
