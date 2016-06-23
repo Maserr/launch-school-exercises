@@ -51,6 +51,10 @@ Solutions to the extra coding exercises in the program.
 * [Convert a number to a string!](/101-109/convert_a_number_to_a_string.rb)
 * [Convert a signed number to a string!](/101-109/convert_a_signed_number_to_a_string.rb)
 
+### Easy 5
+
+* [ASCII string value](/101-109/ascii_string_value.rb)
+
 ## Misc Exercises
 
 * [To Currency](/misc/to_currency.rb)
