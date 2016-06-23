@@ -48,6 +48,7 @@ Solutions to the extra coding exercises in the program.
 * [Convert a string to a number!](/101-109/convert_a_string_to_a_number_1.rb)
 * [Convert a string to a number! – Further exploration](/101-109/convert_a_string_to_a_number_2.rb)
 * [Convert a string to a signed number!](/101-109/convert_a_string_to_a_signed_number.rb)
+* [Convert a number to a string!](/101-109/convert_a_number_to_a_string.rb)
 
 ## Misc Exercises
 
