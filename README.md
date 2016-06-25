@@ -56,6 +56,7 @@ Solutions to the extra coding exercises in the program.
 * [ASCII string value](/101-109/ascii_string_value.rb)
 * [After midnight - Part 1](101-109/after_midnight_part_1.rb)
 * [After midnight - Part 2](101-109/after_midnight_part_2.rb)
+* [Letter swap](/101-109/letter_swap.rb)
 
 ## Misc Exercises
 
