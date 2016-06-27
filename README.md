@@ -60,6 +60,7 @@ Solutions to the extra coding exercises in the program.
 * [Clean up the words](/101-109/clean_up_the_words_1.rb)
 * [Clean up the words – Further exploration](/101-109/clean_up_the_words_2.rb)
 * [Letter counter - Part 1](/101-109/letter_counter_part_1.rb)
+* [Letter counter - Part 2](/101-109/letter_counter_part_2.rb)
 
 ## Misc Exercises
 
