@@ -57,6 +57,8 @@ Solutions to the extra coding exercises in the program.
 * [After midnight - Part 1](101-109/after_midnight_part_1.rb)
 * [After midnight - Part 2](101-109/after_midnight_part_2.rb)
 * [Letter swap](/101-109/letter_swap.rb)
+* [Clean up the words](/101-109/clean_up_the_words_1.rb)
+* [Clean up the words – Further exploration](/101-109/clean_up_the_words_2.rb)
 
 ## Misc Exercises
 
