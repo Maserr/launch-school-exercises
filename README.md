@@ -63,6 +63,7 @@ Solutions to the extra coding exercises in the program.
 * [Letter counter - Part 2](/101-109/letter_counter_part_2.rb)
 * [Alphabetical numbers](/101-109/alphabetical_numbers_1.rb)
 * [Alphabetical numbers – Further exploration](/101-109/alphabetical_numbers_2.rb)
+* [ddaaiillyy ddoouubbllee](/101-109/ddaaiillyy_ddoouubbllee.rb)
 
 ## Misc Exercises
 
