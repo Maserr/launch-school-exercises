@@ -64,6 +64,8 @@ Solutions to the extra coding exercises in the program.
 * [Alphabetical numbers](/101-109/alphabetical_numbers_1.rb)
 * [Alphabetical numbers – Further exploration](/101-109/alphabetical_numbers_2.rb)
 * [ddaaiillyy ddoouubbllee](/101-109/ddaaiillyy_ddoouubbllee.rb)
+* [Bannerizer](/101-109/bannerizer_1.rb)
+* [Bannerizer – Further exploration](/101-109/bannerizer_2.rb)
 
 ## Misc Exercises
 
