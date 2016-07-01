@@ -71,6 +71,7 @@ Solutions to the extra coding exercises in the program.
 
 * [Cute angles](/101-109/cute_angles_1.rb)
 * [Cute angles – Further exploration](/101-109/cute_angles_2.rb)
+* [Delete vowels](/101-109/delete_vowels.rb)
 
 ## Misc Exercises
 
