@@ -67,6 +67,11 @@ Solutions to the extra coding exercises in the program.
 * [Bannerizer](/101-109/bannerizer_1.rb)
 * [Bannerizer – Further exploration](/101-109/bannerizer_2.rb)
 
+### Easy 6
+
+* [Cute angles](/101-109/cute_angles_1.rb)
+* [Cute angles – Further exploration](/101-109/cute_angles_2.rb)
+
 ## Misc Exercises
 
 * [To Currency](/misc/to_currency.rb)
