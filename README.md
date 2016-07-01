@@ -74,6 +74,8 @@ Solutions to the extra coding exercises in the program.
 * [Delete vowels](/101-109/delete_vowels.rb)
 * [Fibonacci number location by length](/101-109/fibonacci_number_location_by_length.rb)
 * [Reversed arrays - Part 1](101-109/reversed_arrays_part_1.rb)
+* [Reversed arrays - Part 2](/101-109/reversed_arrays_part_2_1.rb)
+* [Reversed arrays - Part 2 – Further exploration](/101-109/reversed_arrays_part_2_2.rb)
 
 ## Misc Exercises
 
