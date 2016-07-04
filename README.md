@@ -79,6 +79,7 @@ Solutions to the extra coding exercises in the program.
 * [Combining arrays](/101-109/combining_arrays.rb)
 * [Halvsies](/101-109/halvsies.rb)
 * [Find the duplicate](/101-109/find_the_duplicate.rb)
+* [Does my list include this?](/101-109/does_my_list_include_this.rb)
 
 ## Misc Exercises
 
