@@ -77,6 +77,7 @@ Solutions to the extra coding exercises in the program.
 * [Reversed arrays - Part 2](/101-109/reversed_arrays_part_2_1.rb)
 * [Reversed arrays - Part 2 – Further exploration](/101-109/reversed_arrays_part_2_2.rb)
 * [Combining arrays](/101-109/combining_arrays.rb)
+* [Halvsies](/101-109/halvsies.rb)
 
 ## Misc Exercises
 
