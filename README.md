@@ -80,6 +80,8 @@ Solutions to the extra coding exercises in the program.
 * [Halvsies](/101-109/halvsies.rb)
 * [Find the duplicate](/101-109/find_the_duplicate.rb)
 * [Does my list include this?](/101-109/does_my_list_include_this.rb)
+* [Right triangles](101-109/right_triangles_1.rb)
+* [Right triangles – Further exploration](101-109/right_triangles_2.rb)
 
 ## Misc Exercises
 
