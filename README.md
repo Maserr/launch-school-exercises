@@ -93,6 +93,7 @@ Solutions to the extra coding exercises in the program.
 * [Staggered caps - Part 1 – Further exploration](/101-109/staggered_caps_part_1_2.rb)
 * [Staggered caps - Part 2](/101-109/staggered_caps_part_2.rb)
 * [Multiplicative average](/101-109/multiplicative_average.rb)
+* [Multiply lists](/101-109/multiply_lists.rb)
 
 ## Misc Exercises
 
