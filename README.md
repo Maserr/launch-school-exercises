@@ -88,6 +88,7 @@ Solutions to the extra coding exercises in the program.
 * [Combine two lists](/101-109/combine_two_lists.rb)
 * [Lettercase counter](/101-109/lettercase_counter.rb)
 * [Capitalize words](/101-109/capitalize_words.rb)
+* [Swap case](/101-109/swap_case.rb)
 
 ## Misc Exercises
 
