@@ -83,6 +83,10 @@ Solutions to the extra coding exercises in the program.
 * [Right triangles](101-109/right_triangles_1.rb)
 * [Right triangles – Further exploration](101-109/right_triangles_2.rb)
 
+### Easy 7
+
+* [Combine two lists](/101-109/combine_two_lists.rb)
+
 ## Misc Exercises
 
 * [To Currency](/misc/to_currency.rb)
