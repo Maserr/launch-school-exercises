@@ -89,6 +89,8 @@ Solutions to the extra coding exercises in the program.
 * [Lettercase counter](/101-109/lettercase_counter.rb)
 * [Capitalize words](/101-109/capitalize_words.rb)
 * [Swap case](/101-109/swap_case.rb)
+* [Staggered caps - Part 1](/101-109/staggered_caps_part_1_1.rb)
+* [Staggered caps - Part 1 – Further exploration](/101-109/staggered_caps_part_1_2.rb)
 
 ## Misc Exercises
 
