@@ -86,6 +86,7 @@ Solutions to the extra coding exercises in the program.
 ### Easy 7
 
 * [Combine two lists](/101-109/combine_two_lists.rb)
+* [Lettercase counter](/101-109/lettercase_counter.rb)
 
 ## Misc Exercises
 
