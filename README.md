@@ -95,6 +95,7 @@ Solutions to the extra coding exercises in the program.
 * [Multiplicative average](/101-109/multiplicative_average.rb)
 * [Multiply lists](/101-109/multiply_lists.rb)
 * [Multiply all pairs](/101-109/multiply_all_pairs.rb)
+* [The end is near but not here](/101-109/the_end_is_near_but_not_here.rb)
 
 ## Misc Exercises
 
