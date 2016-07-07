@@ -97,6 +97,10 @@ Solutions to the extra coding exercises in the program.
 * [Multiply all pairs](/101-109/multiply_all_pairs.rb)
 * [The end is near but not here](/101-109/the_end_is_near_but_not_here.rb)
 
+### Easy 8
+
+* [Sum of sums](/101-109/sum_of_sums.rb)
+
 ## Misc Exercises
 
 * [To Currency](/misc/to_currency.rb)
