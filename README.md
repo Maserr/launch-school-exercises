@@ -100,6 +100,7 @@ Solutions to the extra coding exercises in the program.
 ### Easy 8
 
 * [Sum of sums](/101-109/sum_of_sums.rb)
+* [Madlibs](/101-109/madlibs.rb)
 
 ## Misc Exercises
 
