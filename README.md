@@ -101,6 +101,7 @@ Solutions to the extra coding exercises in the program.
 
 * [Sum of sums](/101-109/sum_of_sums.rb)
 * [Madlibs](/101-109/madlibs.rb)
+* [Leading substrings](/101-109/leading_substrings.rb)
 
 ## Misc Exercises
 
