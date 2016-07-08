@@ -105,6 +105,7 @@ Solutions to the extra coding exercises in the program.
 * [All substrings](/101-109/all_substrings.rb)
 * [Palindromic substrings](/101-109/palindromic_substrings.rb)
 * [FizzBuzz](/101-109/fizzbuzz.rb)
+* [Double char - Part 1](/101-109/double_char_part_1.rb)
 
 ## Misc Exercises
 
