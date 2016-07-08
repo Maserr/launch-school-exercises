@@ -107,6 +107,7 @@ Solutions to the extra coding exercises in the program.
 * [FizzBuzz](/101-109/fizzbuzz.rb)
 * [Double char - Part 1](/101-109/double_char_part_1.rb)
 * [Double char - Part 2](/101-109/double_char_part_2.rb)
+* [Convert number to reversed array of digits](/101-109/convert_number_to_reversed_array_of_digits.rb)
 
 ## Misc Exercises
 
