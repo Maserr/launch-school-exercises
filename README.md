@@ -120,6 +120,7 @@ Solutions to the extra coding exercises in the program.
 * [How long are you?](/101-109/how_long_are_you.rb)
 * [Name swapping](/101-109/name_swapping.rb)
 * [Sequence count](/101-109/sequence_count.rb)
+* [Grocery list](/101-109/grade_book.rb)
 
 ## Misc Exercises
 
