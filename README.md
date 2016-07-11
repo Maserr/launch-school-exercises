@@ -114,6 +114,7 @@ Solutions to the extra coding exercises in the program.
 
 * [Welcome stranger](/101-109/welcome_stranger.rb)
 * [Double doubles](/101-109/double_doubles.rb)
+* [Always return negative](/101-109/alway_return_negative.rb)
 
 ## Misc Exercises
 
