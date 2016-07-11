@@ -113,6 +113,7 @@ Solutions to the extra coding exercises in the program.
 ### Easy 9
 
 * [Welcome stranger](/101-109/welcome_stranger.rb)
+* [Double doubles](/101-109/double_doubles.rb)
 
 ## Misc Exercises
 
