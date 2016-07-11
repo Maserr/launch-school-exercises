@@ -110,6 +110,10 @@ Solutions to the extra coding exercises in the program.
 * [Convert number to reversed array of digits](/101-109/convert_number_to_reversed_array_of_digits.rb)
 * [Get the middle character](/101-109/get_the_middle_character.rb)
 
+### Easy 9
+
+* [Welcome stranger](/101-109/welcome_stranger.rb)
+
 ## Misc Exercises
 
 * [To Currency](/misc/to_currency.rb)
