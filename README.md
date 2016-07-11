@@ -117,6 +117,7 @@ Solutions to the extra coding exercises in the program.
 * [Always return negative](/101-109/alway_return_negative.rb)
 * [Counting up](/101-109/counting_up.rb)
 * [Uppercase check](/101-109/uppercase_check.rb)
+* [How long are you?](/101-109/how_long_are_you.rb)
 
 ## Misc Exercises
 
