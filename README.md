@@ -116,6 +116,7 @@ Solutions to the extra coding exercises in the program.
 * [Double doubles](/101-109/double_doubles.rb)
 * [Always return negative](/101-109/alway_return_negative.rb)
 * [Counting up](/101-109/counting_up.rb)
+* [Uppercase check](/101-109/uppercase_check.rb)
 
 ## Misc Exercises
 
