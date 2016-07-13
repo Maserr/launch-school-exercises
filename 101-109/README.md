@@ -125,3 +125,4 @@
 * [Rotation - Part 1 - Further exploration](/101-109/rotation_part_1_2.rb)
 * [Rotation - Part 2](/101-109/rotation_part_2.rb)
 * [Rotation - Part 3](/101-109/rotation_part_3.rb)
+* [1000 Lights](/101-109/1000_lights.rb)
