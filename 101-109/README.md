@@ -118,3 +118,8 @@
 * [Sequence count](/101-109/sequence_count.rb)
 * [Grade book](/101-109/grade_book.rb)
 * [Grocery list](/101-109/grocery_list.rb)
+
+## Medium 1
+
+* [Rotation - Part 1](/101-109/rotation_part_1_1.rb)
+* [Rotation - Part 1 - Further exploration](/101-109/rotation_part_1_2.rb)
