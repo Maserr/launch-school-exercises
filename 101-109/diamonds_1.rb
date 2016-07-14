@@ -9,7 +9,7 @@ def diamond(size)
   # lower part
   diamond[0..-2].reverse.each { |line| diamond << line }
   # display array centering lines
-  diamond.each.map { |line| puts line.center(size) }
+  diamond.each { |line| puts line.center(size) }
 end
 
 diamond(1)
