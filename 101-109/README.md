@@ -5,6 +5,7 @@
 * [Repeat youself](/101-109/repeat_yourself.rb)
 * [Odd](/101-109/odd.rb)
 * [List of digits](/101-109/list_of_digits.rb)
+* [How many?](/101-109/how_many.rb)
 
 ## Easy 2
 
