@@ -1,5 +1,9 @@
 # Launch School – 101-109 Small Problems
 
+## Easy 1
+
+* [Repeat youself](/101-109/repeat_yourself.rb)
+
 ## Easy 2
 
 * [How old is Teddy?](/101-109/how_old_is_teddy.rb)
