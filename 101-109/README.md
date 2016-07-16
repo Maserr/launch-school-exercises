@@ -3,6 +3,7 @@
 ## Easy 1
 
 * [Repeat youself](/101-109/repeat_yourself.rb)
+* [Odd](/101-109/odd.rb)
 
 ## Easy 2
 
