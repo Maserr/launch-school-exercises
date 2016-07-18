@@ -10,6 +10,7 @@
 * [Reverse it - Part 1](/101-109/reverse_it_part_1.rb)
 * [Reverse it - Part 2](/101-109/reverse_it_part_2.rb)
 * [Stringy strings](/101-109/stringy_strings.rb)
+* [Array average](/101-109/array_average.rb)
 
 ## Easy 2
 
