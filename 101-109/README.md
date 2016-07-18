@@ -11,6 +11,7 @@
 * [Reverse it - Part 2](/101-109/reverse_it_part_2.rb)
 * [Stringy strings](/101-109/stringy_strings.rb)
 * [Array average](/101-109/array_average.rb)
+* [Sum of digits](/101-109/sum_of_digits.rb)
 
 ## Easy 2
 
