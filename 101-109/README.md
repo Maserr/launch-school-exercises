@@ -12,6 +12,7 @@
 * [Stringy strings](/101-109/stringy_strings.rb)
 * [Array average](/101-109/array_average.rb)
 * [Sum of digits](/101-109/sum_of_digits.rb)
+* [What's my bonus?](/101-109/whats_my_bonus.rb)
 
 ## Easy 2
 
