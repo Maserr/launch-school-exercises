@@ -148,3 +148,5 @@
 * Word to digit - Further exploration
 * [Fibonacci numbers - Recursion](/101-109/fibonacci_numbers_recursion.rb)
 * [Fibonacci numbers - Procedural](/101-109/fibonacci_numbers_procedural.rb)
+* [Fibonacci numbers - Last digit](/101-109/fibonacci_numbers_last_digit.rb)
+* Fibonacci numbers - Last digit - Further exploration
