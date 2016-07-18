@@ -146,3 +146,4 @@
 * Stack machine interpreation - Further exploration
 * [Word to digit](/101-109/word_to_digit.rb)
 * Word to digit - Further exploration
+* [Fibonacci numbers - Recursion](/101-109/fibonacci_numbers_recursion.rb)
