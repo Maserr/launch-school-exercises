@@ -144,3 +144,5 @@
 * [Diamonds! - Further exploration](/101-109/diamonds_2.rb)
 * [Stack machine interpreation](/101-109/stack_machine_interpretation_1.rb)
 * Stack machine interpreation - Further exploration
+* [Word to digit](/101-109/word_to_digit.rb)
+* Word to digit - Further exploration
