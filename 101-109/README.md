@@ -7,6 +7,7 @@
 * [List of digits](/101-109/list_of_digits.rb)
 * [How many?](/101-109/how_many_1.rb)
 * [How many? - Further exploration](/101-109/how_many_2.rb)
+* [Reverse it - Part 1](/101-109/reverse_it_part_1.rb)
 
 ## Easy 2
 
