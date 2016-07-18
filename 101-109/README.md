@@ -9,6 +9,7 @@
 * [How many? - Further exploration](/101-109/how_many_2.rb)
 * [Reverse it - Part 1](/101-109/reverse_it_part_1.rb)
 * [Reverse it - Part 2](/101-109/reverse_it_part_2.rb)
+* [Stringy strings](/101-109/stringy_strings.rb)
 
 ## Easy 2
 
