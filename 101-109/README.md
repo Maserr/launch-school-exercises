@@ -142,3 +142,5 @@
 * [1000 Lights](/101-109/1000_lights.rb)
 * [Diamonds!](/101-109/diamonds_1.rb)
 * [Diamonds! - Further exploration](/101-109/diamonds_2.rb)
+* [Stack machine interpreation](/101-109/stack_machine_interpretation_1.rb)
+* Stack machine interpreation - Further exploration
