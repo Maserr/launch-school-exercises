@@ -150,3 +150,8 @@
 * [Fibonacci numbers - Procedural](/101-109/fibonacci_numbers_procedural.rb)
 * [Fibonacci numbers - Last digit](/101-109/fibonacci_numbers_last_digit.rb)
 * Fibonacci numbers - Last digit - Further exploration
+
+## Medium 2
+
+* [Longest sentence](/101-109/longest_sentence_1.rb)
+* [Longest sentence - Further exploration](/101-109/longest_sentence_2.rb)
