@@ -158,3 +158,4 @@
 * [Now I know my ABCs](/101-109/now_i_know_my_abcs.rb)
 * [Lettercase percentage ratio](/101-109/lettercase_percentage_ratio.rb)
 * [Matching parentheses?](/101-109/matching_parentheses.rb)
+* [Triangle sides](/101-109/triangle_sides.rb)
