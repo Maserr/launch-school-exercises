@@ -1,0 +1,24 @@
+# Write a method that takes a string as argument, and returns true if all
+# parentheses in the string are properly balanced, false otherwise. To be
+# properly balanced, parentheses must occur in matching '(' and ')' pairs.
+
+def balanced?(string)
+  parentheses = 0
+
+  string.each_char do |char|
+      parentheses += 1 if char == "("
+      parentheses -= 1 if char == ")"
+      return false if parentheses < 0
+  end
+
+  parentheses == 0
+end
+
+puts balanced?('What (is) this?')      # => true
+puts balanced?('What is) this?')       # => false
+puts balanced?('What (is this?')       # => false
+puts balanced?('((What) (is this))?')  # => true
+puts balanced?('((What)) (is this))?') # => false
+puts balanced?('Hey!')                 # => true
+puts balanced?(')Hey!(')               # => false
+puts balanced?('What ((is))) up(')     # => false
