@@ -160,3 +160,4 @@
 * [Matching parentheses?](/101-109/matching_parentheses.rb)
 * [Triangle sides](/101-109/triangle_sides.rb)
 * [Tri-angles](/101-109/tri_angles.rb)
+* [Unlucky days](/101-109/unlucky_days.rb)
