@@ -164,3 +164,4 @@
 * [Next featured number higher than a given value](/101-109/next_featured_number_higher_than_a_given_value.rb)
 * [Bubble sort](/101-109/bubble_sort_1.rb)
 * [Bubble sort - Further exploration](/101-109/bubble_sort_2.rb)
+* [Sum Square - Square Sum](/101-109/sum_square_square_sum.rb)
