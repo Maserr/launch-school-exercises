@@ -159,3 +159,4 @@
 * [Lettercase percentage ratio](/101-109/lettercase_percentage_ratio.rb)
 * [Matching parentheses?](/101-109/matching_parentheses.rb)
 * [Triangle sides](/101-109/triangle_sides.rb)
+* [Tri-angles](/101-109/tri_angles.rb)
