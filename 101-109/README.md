@@ -161,3 +161,4 @@
 * [Triangle sides](/101-109/triangle_sides.rb)
 * [Tri-angles](/101-109/tri_angles.rb)
 * [Unlucky days](/101-109/unlucky_days.rb)
+* [Next featured number higher than a given value](/101-109/next_featured_number_higher_than_a_given_value.rb)
