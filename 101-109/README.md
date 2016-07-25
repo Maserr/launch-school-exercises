@@ -165,3 +165,7 @@
 * [Bubble sort](/101-109/bubble_sort_1.rb)
 * [Bubble sort - Further exploration](/101-109/bubble_sort_2.rb)
 * [Sum Square - Square Sum](/101-109/sum_square_square_sum.rb)
+
+## Advanced 1
+
+* [Madlibs revisited](/101-109/madlibs_revisited.rb)
