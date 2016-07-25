@@ -169,3 +169,4 @@
 ## Advanced 1
 
 * [Madlibs revisited](/101-109/madlibs_revisited.rb)
+* [Seeing stars](/101-109/seeing_stars.rb)
