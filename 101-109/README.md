@@ -175,3 +175,4 @@
 * [Rotating matrices](/101-109/rotating_matrices.rb)
 * [Permutations](/101-109/permutations.rb)
 * [Fix the bug](/101-109/fix_the_bug.rb)
+* [Merge sorted lists](/101-109/merge_sorted_lists.rb)
