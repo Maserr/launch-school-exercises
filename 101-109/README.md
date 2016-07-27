@@ -171,3 +171,4 @@
 * [Madlibs revisited](/101-109/madlibs_revisited.rb)
 * [Seeing stars](/101-109/seeing_stars.rb)
 * [Transpose 3x3](/101-109/transpose_3x3.rb)
+* [Transpose MxN](/101-109/transpose_mxn.rb)
