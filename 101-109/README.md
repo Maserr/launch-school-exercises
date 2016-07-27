@@ -173,3 +173,4 @@
 * [Transpose 3x3](/101-109/transpose_3x3.rb)
 * [Transpose MxN](/101-109/transpose_mxn.rb)
 * [Rotating matrices](/101-109/rotating_matrices.rb)
+* [Permutations](/101-109/permutations.rb)
