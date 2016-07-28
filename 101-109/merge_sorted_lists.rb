@@ -7,7 +7,7 @@
 # Your solution should not mutate the input arrays.
 
 def merge(array1, array2)
-  result = array1
+  result = array1.map { |value| value }
   return array2 if result.empty?
 
   array2.each_with_index do |value, index|
