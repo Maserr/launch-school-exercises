@@ -25,3 +25,16 @@
 * [Print until](/ruby-basics/print_until.rb)
 * [That's odd](/ruby-basics/thats_odd.rb)
 * [Greet your friends](/ruby-basics/greet_your_friends.rb)
+
+## Loops 2
+
+* [Even or odd?](/ruby-basics/even_or_odd.rb)
+* [Catch the number](/ruby-basics/catch_the_number.rb)
+* [Conditional loop](/ruby-basics/conditional_loop.rb)
+* [Get the sum](/ruby-basics/get_the_sum.rb)
+* [Insert numbers](/ruby-basics/insert_numbers.rb)
+* [Empty the array](/ruby-basics/empty_the_array.rb)
+* [Stop counting](/ruby-basics/stop_counting.rb)
+* [Only even](/ruby-basics/only_even.rb)
+* [First to five](/ruby-basics/first_to_five.rb)
+* [Greeting](/ruby-basics/greeting.rb)
