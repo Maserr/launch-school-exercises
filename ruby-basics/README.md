@@ -38,3 +38,16 @@
 * [Only even](/ruby-basics/only_even.rb)
 * [First to five](/ruby-basics/first_to_five.rb)
 * [Greeting](/ruby-basics/greeting.rb)
+
+## User input
+
+* [Repeat after me](/ruby-basics/repeat_after_me.rb)
+* [Your age in months](/ruby-basics/your_age_in_months.rb)
+* [Print something - Part 1](/ruby-basics/print_something_part_1.rb)
+* [Print something - Part 2](/ruby-basics/print_something_part_2.rb)
+* [Launch School printer - Part 1](/ruby-basics/launch_school_printer_part_1.rb)
+* [Passwords](/ruby-basics/passwords.rb)
+* [Username and password](/ruby-basics/username_and_passwords.rb)
+* [Divinding numbers](/ruby-basics/dividing_numbers.rb)
+* [Launch School printer - Part 2](/ruby-basics/launch_school_printer_part_2.rb)
+* [Opposites attract](/ruby-basics/opposites_attract.rb)
