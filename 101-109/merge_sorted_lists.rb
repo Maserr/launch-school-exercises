@@ -12,6 +12,7 @@ def merge(array1, array2)
 
   array2.each_with_index do |value, index|
     position = result.index { |elem| elem > value }
+    position = -1 if position == nil
     result.insert(position, value)
   end
 
