@@ -77,3 +77,16 @@
 * [Counting sheep - Part 2](/ruby-basics/counting_sheep_part_2.md)
 * [Counting sheep - Part 3](/ruby-basics/counting_sheep_part_3.md)
 * [Tricky number](/ruby-basics/tricky_number.md)
+
+## Conditionals
+
+* [Unpreditable weather - Part 1](/ruby-basics/unpredictable_weather_part_1.rb)
+* [Unpreditable weather - Part 2](/ruby-basics/unpredictable_weather_part_2.rb)
+* [Unpreditable weather - Part 3](/ruby-basics/unpredictable_weather_part_3.rb)
+* [True or false](/ruby-basics/true_or_false.rb)
+* [Truthy number](/ruby-basics/truthy_number.md)
+* [Stoplight - Part 1](/ruby-basics/stoplight_part_1.rb)
+* [Stoplight - Part 2](/ruby-basics/stoplight_part_2.rb)
+* [Sleep alert](/ruby-basics/sleep_alert.rb)
+* [Cool numbers](/ruby-basics/cool_numbers.rb)
+* [Stoplight - Part 3](/ruby-basics/stoplight_part_3.rb)
