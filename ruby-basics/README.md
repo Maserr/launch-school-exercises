@@ -51,3 +51,16 @@
 * [Divinding numbers](/ruby-basics/dividing_numbers.rb)
 * [Launch School printer - Part 2](/ruby-basics/launch_school_printer_part_2.rb)
 * [Opposites attract](/ruby-basics/opposites_attract.rb)
+
+## Methods
+
+* [Greeting through methods - Part 1](/ruby-basics/greeting_through_methods_part_1.rb)
+* [Greeting through methods - Part 2](/ruby-basics/greeting_through_methods_part_2.rb)
+* [Make and model](/ruby-basics/make_and_model.rb)
+* [Day or night?](/ruby-basics/day_or_night.rb)
+* [Naming animals](/ruby-basics/naming_animals.rb)
+* [Name not found](/ruby-basics/name_not_found.rb)
+* [Multiply the sum](/ruby-basics/multiply_the_sum.rb)
+* [Random sentence](/ruby-basics/random_sentence.rb)
+* [Print me - Part 1](/ruby-basics/print_me_part_1.rb)
+* [Print me - Part 2](/ruby-basics/print_me_part_2.rb)
