@@ -176,3 +176,4 @@
 * [Permutations](/101-109/permutations.rb)
 * [Fix the bug](/101-109/fix_the_bug.rb)
 * [Merge sorted lists](/101-109/merge_sorted_lists.rb)
+* [Merge sort](/101-109/merge_sort.rb)
