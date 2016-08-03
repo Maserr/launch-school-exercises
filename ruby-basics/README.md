@@ -64,3 +64,16 @@
 * [Random sentence](/ruby-basics/random_sentence.rb)
 * [Print me - Part 1](/ruby-basics/print_me_part_1.rb)
 * [Print me - Part 2](/ruby-basics/print_me_part_2.rb)
+
+## Return
+
+* [Breakfast, Lunch, or Dinner - Part 1](/ruby-basics/breakfast_lunch_dinner_part_1.md)
+* [Breakfast, Lunch, or Dinner - Part 2](/ruby-basics/breakfast_lunch_dinner_part_2.md)
+* [Breakfast, Lunch, or Dinner - Part 3](/ruby-basics/breakfast_lunch_dinner_part_3.md)
+* [Breakfast, Lunch, or Dinner - Part 4](/ruby-basics/breakfast_lunch_dinner_part_4.md)
+* [Breakfast, Lunch, or Dinner - Part 5](/ruby-basics/breakfast_lunch_dinner_part_5.md)
+* [Breakfast, Lunch, or Dinner - Part 6](/ruby-basics/breakfast_lunch_dinner_part_6.md)
+* [Counting sheep - Part 1](/ruby-basics/counting_sheep_part_1.md)
+* [Counting sheep - Part 2](/ruby-basics/counting_sheep_part_2.md)
+* [Counting sheep - Part 3](/ruby-basics/counting_sheep_part_3.md)
+* [Tricky number](/ruby-basics/tricky_number.md)
