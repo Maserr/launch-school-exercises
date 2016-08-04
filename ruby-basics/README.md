@@ -103,3 +103,16 @@
 * [Favorite number - Part 1](/ruby-basics/favorite_number_part_1.rb)
 * [Favorite number - Part 2](/ruby-basics/favorite_number_part_2.rb)
 * [Are we the same?](/ruby-basics/are_we_the_same.rb)
+
+## Hashes
+
+* [First car](/ruby-basics/first_car.rb)
+* [Adding the year](/ruby-basics/adding_the_year.rb)
+* [Broken odometer](/ruby-basics/broken_odometer.rb)
+* [What color?](/ruby-basics/what_color.rb)
+* [Labeled numbers](/ruby-basics/labeled_numbers.rb)
+* [Divided by two](/ruby-basics/divided_by_two.rb)
+* [Low, medium, or high?](/ruby-basics/low_medium_or_high.rb)
+* [Low or nothing](/ruby-basics/low_or_nothing.rb)
+* [Multiple cars](/ruby-basics/multiple_cars.rb)
+* [Which collection?](/ruby-basics/which_collection.rb)
