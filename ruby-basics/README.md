@@ -48,7 +48,7 @@
 * [Launch School printer - Part 1](/ruby-basics/launch_school_printer_part_1.rb)
 * [Passwords](/ruby-basics/passwords.rb)
 * [Username and password](/ruby-basics/username_and_passwords.rb)
-* [Divinding numbers](/ruby-basics/dividing_numbers.rb)
+* [Dividing numbers](/ruby-basics/dividing_numbers.rb)
 * [Launch School printer - Part 2](/ruby-basics/launch_school_printer_part_2.rb)
 * [Opposites attract](/ruby-basics/opposites_attract.rb)
 
@@ -80,9 +80,9 @@
 
 ## Conditionals
 
-* [Unpreditable weather - Part 1](/ruby-basics/unpredictable_weather_part_1.rb)
-* [Unpreditable weather - Part 2](/ruby-basics/unpredictable_weather_part_2.rb)
-* [Unpreditable weather - Part 3](/ruby-basics/unpredictable_weather_part_3.rb)
+* [Unpredictable weather - Part 1](/ruby-basics/unpredictable_weather_part_1.rb)
+* [Unpredictable weather - Part 2](/ruby-basics/unpredictable_weather_part_2.rb)
+* [Unpredictable weather - Part 3](/ruby-basics/unpredictable_weather_part_3.rb)
 * [True or false](/ruby-basics/true_or_false.rb)
 * [Truthy number](/ruby-basics/truthy_number.md)
 * [Stoplight - Part 1](/ruby-basics/stoplight_part_1.rb)
@@ -90,3 +90,16 @@
 * [Sleep alert](/ruby-basics/sleep_alert.rb)
 * [Cool numbers](/ruby-basics/cool_numbers.rb)
 * [Stoplight - Part 3](/ruby-basics/stoplight_part_3.rb)
+
+## Arrays
+
+* [New pet](/ruby-basics/new_pet.rb)
+* [More than one](/ruby-basics/more_than_one.rb)
+* [Free the lizard](/ruby-basics/free_the_lizard.rb)
+* [One isn't enough](/ruby-basics/one_isnt_enough.rb)
+* [What color are you?](/ruby-basics/what_color_are_you.rb)
+* [Doubled](/ruby-basics/doubled.rb)
+* [Divisible by three](/ruby-basics/divisible_by_three.rb)
+* [Favorite number - Part 1](/ruby-basics/favorite_number_part_1.rb)
+* [Favorite number - Part 2](/ruby-basics/favorite_number_part_2.rb)
+* [Are we the same?](/ruby-basics/are_we_the_same.rb)
