@@ -4,13 +4,11 @@
 
 def stringy(number, start = 1)
   result = []
+  digit = start
 
   number.times do |index|
-    if start == 1
-      index.even? ? result << 1 : result << 0
-    elsif start == 0
-      index.even? ? result << 0 : result << 1
-    end
+    result << digit
+    digit == 0 ? digit = 1 : digit = 0
   end
 
   result.join
