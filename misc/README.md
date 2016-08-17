@@ -4,3 +4,4 @@
 * [Combining numbers](/misc/combining_numbers.rb)
 * [Is prime?](/misc/is_prime.rb)
 * [Select primes](/misc/select_primes.rb)
+* [Count primes](/misc/count_primes.rb)
