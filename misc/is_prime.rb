@@ -2,7 +2,7 @@
 # the Primer class.
 
 def is_prime?(integer)
-  (2..(integer - 1).each { |number| return false if integer % number == 0 }
+  (2..(integer - 1)).each { |number| return false if integer % number == 0 }
 
   true
 end
