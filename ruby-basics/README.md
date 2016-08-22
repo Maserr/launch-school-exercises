@@ -91,6 +91,20 @@
 * [Cool numbers](/ruby-basics/cool_numbers.rb)
 * [Stoplight - Part 3](/ruby-basics/stoplight_part_3.rb)
 
+## Strings
+
+* [Create a string](/ruby-basics/create_a_string.rb)
+* [Quote confusion](/ruby-basics/quote_confusion.rb)
+* [Ignoring case](/ruby-basics/ignoring_case.rb)
+* [Dynamic string](/ruby-basics/dynamic_string.rb)
+* [Combining names](/ruby-basics/combining_names.rb)
+* [Tricky formatting](/ruby-basics/tricky_formatting.rb)
+* [Goodbye, not Hello](/ruby-basics/goodbye_not_hello.rb)
+* [Print the alphabet](/ruby-basics/print_the_alphabet.rb)
+* [Pluralize](/ruby-basics/pluralize.rb)
+* [Are you there?](/ruby-basics/are_you_there.rb)
+
+
 ## Arrays
 
 * [New pet](/ruby-basics/new_pet.rb)
