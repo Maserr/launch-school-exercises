@@ -9,11 +9,9 @@ end
 
 def rotate_rightmost_digits(number, n)
   digits = number.to_s.chars
+  digits[-n..-1] = rotate_array(digits[-n..-1])
 
-  unrotated_part = digits[0..(-n - 1)]
-  rotated_part = rotate_array(digits[-n..-1])
-
-  (unrotated_part + rotated_part).join.to_i
+  digits.join.to_i
 end
 
 p rotate_rightmost_digits(735291, 1) # => 735291
