@@ -16,6 +16,7 @@
 ## OO Basics: Classes and Objects 2
 
 * [Generic greeting - Part 1](generic_greeting_part_1.rb)
+* [Hello, Chloe!](hello_chloe.rb)
 
 ## OO Basics: Inheritance
 ## OO Basics: Accessor Methods
