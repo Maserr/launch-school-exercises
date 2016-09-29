@@ -50,6 +50,7 @@
 * [Prefix the name](prefix_the_name.rb)
 * [Avoid mutation](avoid_mutation.rb)
 * [Calculated age](calculated_age.rb)
+* [Unexpected change](unexpected_change.rb)
 
 ## Easy 1
 ## Easy 2
