@@ -24,6 +24,7 @@
 * [Identify yourself - Part 2](identify_yourself_part_2.rb)
 * [Public secret](public_secret.rb)
 * [Private secret](private_secret.rb)
+* [Protected secret](protected_secret.rb)
 
 ## OO Basics: Inheritance
 ## OO Basics: Accessor Methods
