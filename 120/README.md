@@ -33,6 +33,7 @@
 * [Only pass the year](only_pass_the_year.rb)
 * [Start the engine - Part 2](start_the_engine_part_2.rb)
 * [Towable - Part 1](towable_part_1.rb)
+* [Towable - Part 2](towable_part_2.rb)
 
 ## OO Basics: Accessor Methods
 ## Easy 1
