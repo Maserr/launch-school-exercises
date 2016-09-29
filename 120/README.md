@@ -5,6 +5,7 @@
 * [Find the Class](find_the_class.rb)
 * [Create the class](create_the_class.rb)
 * [Create the object](create_the_object.rb)
+* [What are you?](what_are_you.rb)
 
 ## OO Basics: Classes and Objects 2
 ## OO Basics: Inheritance
