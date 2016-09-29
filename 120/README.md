@@ -21,6 +21,7 @@
 * [Generic greeting - Part 2](generic_greeting_part_2.rb)
 * [Counting cats](counting_cats.rb)
 * [Colorful cat](colorful_cat.rb)
+* [Identify yourself - Part 2](identify_yourself_part_2.rb)
 
 ## OO Basics: Inheritance
 ## OO Basics: Accessor Methods
