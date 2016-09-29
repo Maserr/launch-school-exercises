@@ -31,6 +31,7 @@
 * [Inherited year](inherited_year.rb)
 * [Start the engine - Part 1](start_the_engine_part_1.rb)
 * [Only pass the year](only_pass_the_year.rb)
+* [Start the engine - Part 2](start_the_engine_part_2.rb)
 
 ## OO Basics: Accessor Methods
 ## Easy 1
