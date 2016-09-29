@@ -3,6 +3,7 @@
 ## OO Basics: Classes and Objects 1
 
 * [Find the Class](find_the_class.rb)
+* [Create the class](create_the_class.rb)
 
 ## OO Basics: Classes and Objects 2
 ## OO Basics: Inheritance
