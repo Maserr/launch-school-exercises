@@ -10,6 +10,7 @@
 * [Hello, Sophie! - Part 2](hello_sophie_part_2.rb)
 * [Reader](reader.rb)
 * [Writer](writer.rb)
+* [Accessor](accessor.rb)
 
 ## OO Basics: Classes and Objects 2
 ## OO Basics: Inheritance
