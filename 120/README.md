@@ -17,6 +17,7 @@
 
 * [Generic greeting - Part 1](generic_greeting_part_1.rb)
 * [Hello, Chloe!](hello_chloe.rb)
+* [Identify yourself - Part 1](identify_yourself_part_1.rb)
 
 ## OO Basics: Inheritance
 ## OO Basics: Accessor Methods
