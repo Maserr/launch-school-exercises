@@ -49,6 +49,7 @@
 * [Guaranteed formatting](guaranteed_formatting.rb)
 * [Prefix the name](prefix_the_name.rb)
 * [Avoid mutation](avoid_mutation.rb)
+* [Calculated age](calculated_age.rb)
 
 ## Easy 1
 ## Easy 2
