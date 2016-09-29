@@ -45,6 +45,7 @@
 * [Choose the right method](choose_the_right_method.rb)
 * [Access denied](access_denied.rb)
 * [Comparing names](comparing_names.rb)
+* [Who is older?](who_is_older.rb)
 
 ## Easy 1
 ## Easy 2
