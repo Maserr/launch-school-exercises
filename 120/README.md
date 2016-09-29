@@ -39,8 +39,10 @@
 * [Method lookup - Part 3](method_lookup_part_3.rb)
 * [Transportation](transportation.rb)
 
-
 ## OO Basics: Accessor Methods
+
+* [Reading and writing](reading_and_writing.rb)
+
 ## Easy 1
 ## Easy 2
 ## Medium 1
