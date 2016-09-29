@@ -11,6 +11,7 @@
 * [Reader](reader.rb)
 * [Writer](writer.rb)
 * [Accessor](accessor.rb)
+* [Walk the cat](walk_the_cat.rb)
 
 ## OO Basics: Classes and Objects 2
 ## OO Basics: Inheritance
