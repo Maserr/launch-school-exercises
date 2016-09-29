@@ -6,6 +6,7 @@
 * [Create the class](create_the_class.rb)
 * [Create the object](create_the_object.rb)
 * [What are you?](what_are_you.rb)
+* [Hello, Sophie! - Part 1](hello_sophie_part_1.rb)
 
 ## OO Basics: Classes and Objects 2
 ## OO Basics: Inheritance
