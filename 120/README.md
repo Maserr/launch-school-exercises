@@ -47,6 +47,7 @@
 * [Comparing names](comparing_names.rb)
 * [Who is older?](who_is_older.rb)
 * [Guaranteed formatting](guaranteed_formatting.rb)
+* [Prefix the name](prefix_the_name.rb)
 
 ## Easy 1
 ## Easy 2
