@@ -43,6 +43,7 @@
 
 * [Reading and writing](reading_and_writing.rb)
 * [Choose the right method](choose_the_right_method.rb)
+* [Access denied](access_denied.rb)
 
 ## Easy 1
 ## Easy 2
