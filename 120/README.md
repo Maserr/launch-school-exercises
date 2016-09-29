@@ -27,6 +27,9 @@
 * [Protected secret](protected_secret.rb)
 
 ## OO Basics: Inheritance
+
+* [Inherited year](inherited_year.rb)
+
 ## OO Basics: Accessor Methods
 ## Easy 1
 ## Easy 2
