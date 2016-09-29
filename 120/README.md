@@ -42,6 +42,7 @@
 ## OO Basics: Accessor Methods
 
 * [Reading and writing](reading_and_writing.rb)
+* [Choose the right method](choose_the_right_method.rb)
 
 ## Easy 1
 ## Easy 2
