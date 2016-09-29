@@ -8,6 +8,7 @@
 * [What are you?](what_are_you.rb)
 * [Hello, Sophie! - Part 1](hello_sophie_part_1.rb)
 * [Hello, Sophie! - Part 2](hello_sophie_part_2.rb)
+* [Reader](reader.rb)
 
 ## OO Basics: Classes and Objects 2
 ## OO Basics: Inheritance
