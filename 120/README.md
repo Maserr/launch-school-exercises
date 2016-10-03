@@ -54,8 +54,8 @@
 
 ## Easy 1
 
-* [Banner class](banner_class.rb)
-* Banner class - Further exploration
+* [Banner class](banner_class_1.rb)
+* [Banner class - Further exploration](banner_class_2.rb)
 * [What's the output?](whats_the_output.rb)
 * What's the output? - Further exploration
 * [Fix the program - Books - Part 1](fix_the_program_books_part_1.rb)
