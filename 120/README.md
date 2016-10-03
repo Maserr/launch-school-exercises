@@ -56,6 +56,8 @@
 
 * [Banner class](banner_class.rb)
 * Banner class - Further exploration
+* [What's the output?](whats_the_output.rb)
+* What's the output? - Further exploration
 
 ## Easy 2
 ## Medium 1
