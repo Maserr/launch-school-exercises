@@ -64,6 +64,7 @@
 * [Buggy code - Car mileage](buggy_code_car_mileage.rb)
 * [Rectangle and squares](rectangle_and_squares.rb)
 * [Complete the program - Cats!](complete_the_program_cats.rb)
+* [Refactoring vehicles](refactoring_vehicles.rb)
 
 ## Easy 2
 ## Medium 1
