@@ -73,5 +73,6 @@
 * [Complete the program - Houses](complete_the_program_houses.rb)
 * [Reverse engineering](reverse_engineering.rb)
 * [What will this do?](what_will_this_do.rb)
+* [Comparing wallets](comparing_wallets.rb)
 
 ## Medium 1
