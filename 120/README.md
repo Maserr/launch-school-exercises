@@ -77,6 +77,7 @@
 * [Pet shelter](pet_shelter.rb)
 * Pet shelter - Further exploration
 * [Fix the program - Expander](fix_the_program_expander.rb)
+* [Moving](moving.rb)
 
 
 ## Medium 1
