@@ -60,6 +60,8 @@
 * What's the output? - Further exploration
 * [Fix the program - Books - Part 1](fix_the_program_books_part_1.rb)
 * Fix the program - Books - Part 1 - Further exploration
+* [Fix the program - Books - Part 2](fix_the_program_books_part_2.rb)
+
 
 ## Easy 2
 ## Medium 1
