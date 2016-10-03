@@ -63,6 +63,7 @@
 * [Fix the program - Flight data](fix_the_program_flight_data.rb)
 * [Buggy code - Car mileage](buggy_code_car_mileage.rb)
 * [Rectangle and squares](rectangle_and_squares.rb)
+* [Complete the program - Cats!](complete_the_program_cats.rb)
 
 ## Easy 2
 ## Medium 1
