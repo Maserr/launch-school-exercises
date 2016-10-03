@@ -53,5 +53,8 @@
 * [Unexpected change](unexpected_change.rb)
 
 ## Easy 1
+
+* [Banner class](banner_class.rb)
+
 ## Easy 2
 ## Medium 1
