@@ -74,5 +74,7 @@
 * [Reverse engineering](reverse_engineering.rb)
 * [What will this do?](what_will_this_do.rb)
 * [Comparing wallets](comparing_wallets.rb)
+* [Pet shelter](pet_shelter.rb)
+* Pet shelter - Further exploration
 
 ## Medium 1
