@@ -70,5 +70,6 @@
 
 * [Fix the program - Mailable](fix_the_program_mailable.rb)
 * [Fix the program - Drivable](fix_the_program_drivable.rb)
+* [Complete the program - Houses](complete_the_program_houses.rb)
 
 ## Medium 1
