@@ -55,6 +55,7 @@
 ## Easy 1
 
 * [Banner class](banner_class.rb)
+* Banner class - Further exploration
 
 ## Easy 2
 ## Medium 1
