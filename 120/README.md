@@ -61,6 +61,7 @@
 * [Fix the program - Books - Part 2](fix_the_program_books_part_2.rb)
 * [Fix the program - Persons](fix_the_program_persons.rb)
 * [Fix the program - Flight data](fix_the_program_flight_data.rb)
+* [Buggy code - Car mileage](buggy_code_car_mileage.rb)
 
 ## Easy 2
 ## Medium 1
