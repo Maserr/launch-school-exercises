@@ -67,4 +67,7 @@
 * [Refactoring vehicles](refactoring_vehicles.rb)
 
 ## Easy 2
+
+* [Fix the program - Mailable](fix_the_program_mailable.rb)
+
 ## Medium 1
