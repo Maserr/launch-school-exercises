@@ -60,6 +60,7 @@
 * [Fix the program - Books - Part 1](fix_the_program_books_part_1.rb)
 * [Fix the program - Books - Part 2](fix_the_program_books_part_2.rb)
 * [Fix the program - Persons](fix_the_program_persons.rb)
+* [Fix the program - Flight data](fix_the_program_flight_data.rb)
 
 ## Easy 2
 ## Medium 1
