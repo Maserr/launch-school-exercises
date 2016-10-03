@@ -69,5 +69,6 @@
 ## Easy 2
 
 * [Fix the program - Mailable](fix_the_program_mailable.rb)
+* [Fix the program - Drivable](fix_the_program_drivable.rb)
 
 ## Medium 1
