@@ -72,5 +72,6 @@
 * [Fix the program - Drivable](fix_the_program_drivable.rb)
 * [Complete the program - Houses](complete_the_program_houses.rb)
 * [Reverse engineering](reverse_engineering.rb)
+* [What will this do?](what_will_this_do.rb)
 
 ## Medium 1
