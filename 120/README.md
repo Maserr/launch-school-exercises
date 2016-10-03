@@ -76,5 +76,7 @@
 * [Comparing wallets](comparing_wallets.rb)
 * [Pet shelter](pet_shelter.rb)
 * Pet shelter - Further exploration
+* [Fix the program - Expander](fix_the_program_expander.rb)
+
 
 ## Medium 1
