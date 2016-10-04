@@ -84,3 +84,4 @@
 
 * [Privacy](privacy.rb)
 * [Fixed array](fixed_array.rb)
+* [Students](students.rb)
