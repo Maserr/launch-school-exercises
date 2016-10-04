@@ -80,5 +80,6 @@
 * [Moving](moving.rb)
 * [Nobility](nobility.rb)
 
-
 ## Medium 1
+
+* [Privacy](privacy.rb)
