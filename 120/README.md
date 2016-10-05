@@ -88,3 +88,4 @@
 * [Circular queue](circular_queue.rb)
 * [Stack machine interpretation](stack_machine_interpretation.rb)
 * Stack machine interpretation - Further exploration
+* [Number guesser - Part 1](number_guesser_part_1.rb)
