@@ -92,3 +92,4 @@
 * [Number guesser - Part 2](number_guesser_part_2.rb)
 * [Highest and lowest ranking cards](highest_and_lowest_ranking_cards.rb)
 * Highest and lowest ranking cards - Further exploration
+* [Deck of cards](deck_of_cards.rb)
