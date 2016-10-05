@@ -89,3 +89,4 @@
 * [Stack machine interpretation](stack_machine_interpretation.rb)
 * Stack machine interpretation - Further exploration
 * [Number guesser - Part 1](number_guesser_part_1.rb)
+* [Number guesser - Part 2](number_guesser_part_2.rb)
