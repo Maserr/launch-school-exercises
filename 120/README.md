@@ -86,3 +86,4 @@
 * [Fixed array](fixed_array.rb)
 * [Students](students.rb)
 * [Circular queue](circular_queue.rb)
+* [Stack machine interpretation](stack_machine_interpretation.rb)
