@@ -87,3 +87,4 @@
 * [Students](students.rb)
 * [Circular queue](circular_queue.rb)
 * [Stack machine interpretation](stack_machine_interpretation.rb)
+* Stack machine interpretation - Further exploration
