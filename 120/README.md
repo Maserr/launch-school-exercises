@@ -90,3 +90,5 @@
 * Stack machine interpretation - Further exploration
 * [Number guesser - Part 1](number_guesser_part_1.rb)
 * [Number guesser - Part 2](number_guesser_part_2.rb)
+* [Highest and lowest ranking cards](highest_and_lowest_ranking_cards.rb)
+* Highest and lowest ranking cards - Further exploration
