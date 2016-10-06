@@ -22,7 +22,7 @@
 # none?, or one?.
 
 def any?(array)
-  array.each { |item| return true if yield(elem) }
+  array.each { |item| return true if yield(item) }
   false
 end
 
