@@ -11,6 +11,8 @@
 * Divisors - Further exploration
 * [Encrypted pioneers](encrypted_pioneers.rb)
 * Encrypted pioneers – Further exploration
+* [Iterators: true for any?](iterators_true_for_any.rb)
+* Iterators: true for any? - Further exploration
 
 ## Easy 2
 
