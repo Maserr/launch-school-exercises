@@ -7,6 +7,8 @@
 * [Optional blocks - Further exploration](optional_blocks_2.rb)
 * [Find missing numbers](find_missing_numbers_1.rb)
 * [Find missing numbers - Further exploration](find_missing_numbers_2.rb)
+* [Divisors](divisors.rb)
+* Divisors - Further exploration
 
 ## Easy 2
 
