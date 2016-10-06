@@ -15,6 +15,7 @@
 * Iterators: true for any? - Further exploration
 * [Iterators: true for all?](iterators_true_for_all.rb)
 * [Iterators: true for none?](iterators_true_for_none.rb)
+* [Iterators: true for one?](iterators_true_for_one.rb)
 
 ## Easy 2
 
