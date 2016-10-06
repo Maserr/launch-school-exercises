@@ -9,6 +9,7 @@
 * [Find missing numbers - Further exploration](find_missing_numbers_2.rb)
 * [Divisors](divisors.rb)
 * Divisors - Further exploration
+* [Encrypted pioneers](encrypted_pioneers.rb)
 
 ## Easy 2
 
