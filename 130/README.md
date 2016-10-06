@@ -16,6 +16,8 @@
 * [Iterators: true for all?](iterators_true_for_all.rb)
 * [Iterators: true for none?](iterators_true_for_none.rb)
 * [Iterators: true for one?](iterators_true_for_one.rb)
+* [Count items](count_items_1.rb)
+* [Count items - Further exploration](count_items_2.rb)
 
 ## Easy 2
 
