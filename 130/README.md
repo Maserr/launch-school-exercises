@@ -13,6 +13,7 @@
 * Encrypted pioneers – Further exploration
 * [Iterators: true for any?](iterators_true_for_any.rb)
 * Iterators: true for any? - Further exploration
+* [Iterators: true for all?](iterators_true_for_all.rb)
 
 ## Easy 2
 
