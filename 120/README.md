@@ -93,3 +93,5 @@
 * [Highest and lowest ranking cards](highest_and_lowest_ranking_cards.rb)
 * Highest and lowest ranking cards - Further exploration
 * [Deck of cards](deck_of_cards.rb)
+* [Poker!](poker.rb)
+* Poker! - Further exploration
