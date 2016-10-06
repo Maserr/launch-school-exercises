@@ -10,6 +10,7 @@
 * [Divisors](divisors.rb)
 * Divisors - Further exploration
 * [Encrypted pioneers](encrypted_pioneers.rb)
+* Encrypted pioneers – Further exploration
 
 ## Easy 2
 
