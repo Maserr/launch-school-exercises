@@ -30,6 +30,7 @@
 * [each_with_index](each_with_index.rb)
 * [each_with_object](each_with_object.rb)
 * [max_by](max_by.rb)
+* [each_cons - Part 1](each_cons_part_1.rb)
 
 ## Easy Testing
 
