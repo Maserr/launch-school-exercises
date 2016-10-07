@@ -26,6 +26,7 @@
 * [Map](map.rb)
 * Map - Further exploration
 * [Count](count.rb)
+* [Drop_while](drop_while.rb)
 
 ## Easy Testing
 
