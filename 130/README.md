@@ -28,6 +28,7 @@
 * [Count](count.rb)
 * [Drop_while](drop_while.rb)
 * [each_with_index](each_with_index.rb)
+* [each_with_object](each_with_object.rb)
 
 ## Easy Testing
 
