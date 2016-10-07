@@ -21,6 +21,8 @@
 
 ## Easy 2
 
+* [From-top-step sequence generator](from_top_step_sequence_generator.rb)
+
 ## Easy Testing
 
 ## Medium 1
