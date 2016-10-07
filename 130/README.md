@@ -31,6 +31,7 @@
 * [each_with_object](each_with_object.rb)
 * [max_by](max_by.rb)
 * [each_cons - Part 1](each_cons_part_1.rb)
+* [each_cons - Part 2](each_cons_part_2.rb)
 
 ## Easy Testing
 
