@@ -23,6 +23,8 @@
 
 * [From-top-step sequence generator](from_top_step_sequence_generator.rb)
 * [Zipper](zipper.rb)
+* [Map](map.rb)
+* Map - Further exploration
 
 ## Easy Testing
 
