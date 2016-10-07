@@ -22,6 +22,7 @@
 ## Easy 2
 
 * [From-top-step sequence generator](from_top_step_sequence_generator.rb)
+* [Zipper](zipper.rb)
 
 ## Easy Testing
 
