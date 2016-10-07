@@ -25,6 +25,7 @@
 * [Zipper](zipper.rb)
 * [Map](map.rb)
 * Map - Further exploration
+* [Count](count.rb)
 
 ## Easy Testing
 
