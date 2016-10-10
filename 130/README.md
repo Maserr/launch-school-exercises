@@ -44,6 +44,7 @@
 * [Type assertions](type_assertions.rb)
 * [Kind assertions](kind_assertions.rb)
 * [Same object assertions](same_object_assertions.rb)
+* [Refutations](refutations.rb)
 
 ## Medium 1
 
