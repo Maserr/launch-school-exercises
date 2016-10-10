@@ -49,5 +49,6 @@
 ## Medium 1
 
 * [Listening device](listening_device.rb)
+* [Text analyzer - Sandwich code](text_analyzer_sandwich_code.rb)
 
 ## Medium 2: Testing
