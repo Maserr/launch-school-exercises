@@ -38,6 +38,7 @@
 * [Boolean assertions](boolean_assertions.rb)
 * [Equality assertions](equality_assertions.rb)
 * [Nil assertions](nil_assertions.rb)
+* [Empty object assertions](empty_object_assertions.rb)
 
 ## Medium 1
 
