@@ -39,6 +39,7 @@
 * [Equality assertions](equality_assertions.rb)
 * [Nil assertions](nil_assertions.rb)
 * [Empty object assertions](empty_object_assertions.rb)
+* [Included object assertions](included_object_assertions.rb)
 
 ## Medium 1
 
