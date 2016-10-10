@@ -41,6 +41,7 @@
 * [Empty object assertions](empty_object_assertions.rb)
 * [Included object assertions](included_object_assertions.rb)
 * [Exception assertions](exception_assertions.rb)
+* [Type assertions](type_assertions.rb)
 
 ## Medium 1
 
