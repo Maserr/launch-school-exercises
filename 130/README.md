@@ -48,4 +48,6 @@
 
 ## Medium 1
 
+* [Listening device](listening_device.rb)
+
 ## Medium 2: Testing
