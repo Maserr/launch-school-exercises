@@ -35,6 +35,8 @@
 
 ## Easy Testing
 
+* [Boolean assertions](boolean_assertions.rb)
+
 ## Medium 1
 
 ## Medium 2: Testing
