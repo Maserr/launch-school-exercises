@@ -43,6 +43,7 @@
 * [Exception assertions](exception_assertions.rb)
 * [Type assertions](type_assertions.rb)
 * [Kind assertions](kind_assertions.rb)
+* [Same object assertions](same_object_assertions.rb)
 
 ## Medium 1
 
