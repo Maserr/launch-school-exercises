@@ -50,5 +50,6 @@
 
 * [Listening device](listening_device.rb)
 * [Text analyzer - Sandwich code](text_analyzer_sandwich_code.rb)
+* [Passing parameters - Part 1](passing_parameters_part_1.rb)
 
 ## Medium 2: Testing
