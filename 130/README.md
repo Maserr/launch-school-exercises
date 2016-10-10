@@ -42,6 +42,7 @@
 * [Included object assertions](included_object_assertions.rb)
 * [Exception assertions](exception_assertions.rb)
 * [Type assertions](type_assertions.rb)
+* [Kind assertions](kind_assertions.rb)
 
 ## Medium 1
 
