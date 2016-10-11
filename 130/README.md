@@ -61,7 +61,7 @@
 
 ## Medium 2: Testing
 
-* Classes to test - Cash register and transaction
+* Classes to test - [Cash register](cash_register.rb) and [transaction](transaction.rb)
 * Setup the Test class - Cash Register
 * Test Accept Money Method - Cash Register
 * Test Change Method - Cash Register
