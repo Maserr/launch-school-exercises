@@ -53,5 +53,21 @@
 * [Passing parameters - Part 1](passing_parameters_part_1.rb)
 * [Passing parameters - Part 2](passing_parameters_part_2.rb)
 * [Passing parameters - Part 3](passing_parameters_part_3.rb)
+* Exploring Procs, Lambdas, and Blocks: Definition and Arity
+* Exploring Procs, Lambdas, and Blocks: Returning
+* Method to Proc
+* Internal vs External iterators
+* Bubble sort with blocks
 
 ## Medium 2: Testing
+
+* Classes to test - Cash register and transaction
+* Setup the Test class - Cash Register
+* Test Accept Money Method - Cash Register
+* Test Change Method - Cash Register
+* Test Give Receipt Method - Cash Register
+* Test Prompt For Payment Method- Transaction
+* Alter Prompt For Payment Method - Transaction
+* Swap Letters Sample Text and Starter File
+* Test swap method - Text
+* Test word_count method - Text
