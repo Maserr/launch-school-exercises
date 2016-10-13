@@ -68,6 +68,6 @@
 * [Test Give Receipt Method - Cash Register](cash_register_test.rb)
 * [Test Prompt For Payment Method- Transaction](transaction_test.rb)
 * [Alter Prompt For Payment Method - Transaction](transaction_test.rb)
-* Swap Letters Sample Text and Starter File
+* [Swap Letters Sample Text and Starter File](swap_letters_test.rb)
 * Test swap method - Text
 * Test word_count method - Text
