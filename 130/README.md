@@ -62,12 +62,12 @@
 ## Medium 2: Testing
 
 * Classes to test - [Cash register](cash_register.rb) and [transaction](transaction.rb)
-* Setup the Test class - Cash Register
-* Test Accept Money Method - Cash Register
-* Test Change Method - Cash Register
-* Test Give Receipt Method - Cash Register
-* Test Prompt For Payment Method- Transaction
-* Alter Prompt For Payment Method - Transaction
+* [Setup the Test class - Cash Register](cash_register_test.rb)
+* [Test Accept Money Method - Cash Register](cash_register_test.rb)
+* [Test Change Method - Cash Register](cash_register_test.rb)
+* [Test Give Receipt Method - Cash Register](cash_register_test.rb)
+* [Test Prompt For Payment Method- Transaction](transaction_test.rb)
+* [Alter Prompt For Payment Method - Transaction](transaction_test.rb)
 * Swap Letters Sample Text and Starter File
 * Test swap method - Text
 * Test word_count method - Text
