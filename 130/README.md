@@ -53,7 +53,7 @@
 * [Passing parameters - Part 1](passing_parameters_part_1.rb)
 * [Passing parameters - Part 2](passing_parameters_part_2.rb)
 * [Passing parameters - Part 3](passing_parameters_part_3.rb)
-* Exploring Procs, Lambdas, and Blocks: Definition and Arity
+* [Exploring Procs, Lambdas, and Blocks: Definition and Arity](definition_and_arity.rb)
 * Exploring Procs, Lambdas, and Blocks: Returning
 * Method to Proc
 * Internal vs External iterators
