@@ -7,7 +7,7 @@
 * Octal
 * Trinary
 * Sum of Multiples
-* Anagrams
+* [Anagrams](anagram.rb)
 * Point Mutations
 * Word Count
 * Perfect Number
