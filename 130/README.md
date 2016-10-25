@@ -54,7 +54,7 @@
 * [Passing parameters - Part 2](passing_parameters_part_2.rb)
 * [Passing parameters - Part 3](passing_parameters_part_3.rb)
 * [Exploring Procs, Lambdas, and Blocks: Definition and Arity](definition_and_arity.rb)
-* Exploring Procs, Lambdas, and Blocks: Returning
+* [Exploring Procs, Lambdas, and Blocks: Returning](returning.rb)
 * Method to Proc
 * Internal vs External iterators
 * Bubble sort with blocks
