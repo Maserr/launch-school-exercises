@@ -70,4 +70,4 @@
 * [Test Prompt For Payment Method- Transaction](transaction_test.rb)
 * [Alter Prompt For Payment Method - Transaction](transaction_test.rb)
 * [Test swap method - Text](swap_letters_test.rb)
-* Test word_count method - Text
+* [Test word_count method - Text](word_count_test.rb)
