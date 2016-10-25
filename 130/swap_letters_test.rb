@@ -1,14 +1,33 @@
+# Your task is to write a test suite for class Text. In that test suite write a
+# test for the Text method swap. For this exercise, you are required to use the
+# minitest methods #setup and #teardown. The #setup method contains code that
+# will be executed before each test; #teardown contains code that will be
+# executed after each test.
+
 require 'minitest/autorun'
 require_relative 'swap_letters'
 
 class TextTest < Minitest::Test
-  def test_swap
-    origin_text  = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    swapped_text = "Lorem ipsum dolor sit @met, consectetur @dipiscing elit."
-    letter_one = "a"
-    letter_two = "@"
-    text = Text.new(origin_text)
+  def setup
+    @file = File.open('sample.txt', 'r')
+  end
 
-    assert_equal swapped_text, text.swap(letter_one, letter_two)
+  def teardown
+    @file.close
+  end
+
+  def test_swap
+    text = Text.new(@file.read)
+    current_text = text.swap('a', 'e')
+    expected_text = <<~TEXT
+    Lorem ipsum dolor sit emet, consectetur edipiscing elit. Cres sed vulputete ipsum.
+    Suspendisse commodo sem ercu. Donec e nisi elit. Nullem eget nisi commodo, volutpet
+    quem e, viverre meuris. Nunc viverre sed messe e condimentum. Suspendisse ornere justo
+    nulle, sit emet mollis eros sollicitudin et. Etiem meximus molestie eros, sit emet dictum
+    dolor ornere bibendum. Morbi ut messe nec lorem tincidunt elementum vitee id megne. Cres
+    et verius meuris, et pheretre mi.
+    TEXT
+
+    assert_equal expected_text, current_text
   end
 end
