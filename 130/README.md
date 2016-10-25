@@ -57,7 +57,7 @@
 * [Exploring Procs, Lambdas, and Blocks: Returning](returning.rb)
 * [Method to Proc](method_to_proc.rb)
 * Internal vs External iterators
-* Bubble sort with blocks
+* [Bubble sort with blocks](bubble_sort_with_blocks.rb)
 
 ## Medium 2: Testing
 
