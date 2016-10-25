@@ -1,3 +1,11 @@
+# For this exercise, we'll be learning and practicing our knowledge of the arity
+# of lambdas, procs, and implicit blocks. Two groups of code also deal with the
+# definition of a Proc and a Lambda, and the differences between the two. Run
+# each group of code below: For your answer to this exercise, write down your
+# observations for each group of code. After writing out those observations,
+# write one final analysis that explains the differences between procs, blocks,
+# and lambdas.
+
 # Group 1
 my_proc = proc { |thing| puts "This is a #{thing}." }
 puts my_proc
