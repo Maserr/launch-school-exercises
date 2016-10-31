@@ -2,7 +2,7 @@
 
 ## Easy 1
 
-* Series
+* [Series](series.rb)
 * Sieve of Eratosthenes
 * Octal
 * Trinary
@@ -24,7 +24,7 @@
 
 * Secret handshake
 * Luhn Algorithm
-* Pig Lating
+* Pig Latin
 * Protein Translation
 * Circular Buffer
 * Grade School
