@@ -3,7 +3,7 @@
 ## Easy 1
 
 * [Series](series.rb)
-* Sieve of Eratosthenes
+* [Sieve of Eratosthenes](sieve.rb)
 * Octal
 * Trinary
 * Sum of Multiples
