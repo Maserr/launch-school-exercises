@@ -2,16 +2,16 @@
 
 ## Easy 1
 
-* Series: [program](series.rb) – [test suite](series_test.rb)
-* Sieve of Eratosthenes: [program](sieve.rb) – [test suite](sieve_test.rb)
-* Octal: [program](octal.rb) – [test suite](octal_test.rb)
+* [Series](series.rb) –– [(test suite)](series_test.rb)
+* [Sieve of Eratosthenes](sieve.rb) –– [test suite](sieve_test.rb)
+* [Octal](octal.rb) –– [test suite](octal_test.rb)
 * Trinary
 * Sum of Multiples
-* Anagrams: [program](anagram.rb) – [test suite](anagram_test.rb)
+* [Anagrams](anagram.rb) –– [test suite](anagram_test.rb)
 * Point Mutations
 * Word Count
 * Perfect Number
-* Roman Numerals: [program](roman_numerals.rb) – [test suite](roman_numerals_test.rb)
+* [Roman Numerals](roman_numerals.rb) –– [test suite](roman_numerals_test.rb)
 
 ## Easy 2
 
