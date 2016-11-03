@@ -2,7 +2,7 @@
 
 ## Easy 1
 
-* [Series](series.rb) –– [(test suite)](series_test.rb)
+* [Series](series.rb) –– [test suite](series_test.rb)
 * [Sieve of Eratosthenes](sieve.rb) –– [test suite](sieve_test.rb)
 * [Octal](octal.rb) –– [test suite](octal_test.rb)
 * Trinary
