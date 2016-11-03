@@ -4,7 +4,7 @@
 
 * [Series](series.rb)
 * [Sieve of Eratosthenes](sieve.rb)
-* Octal
+* [Octal](octal.rb)
 * Trinary
 * Sum of Multiples
 * [Anagrams](anagram.rb)
