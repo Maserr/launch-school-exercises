@@ -5,7 +5,7 @@
 * [Series](series.rb) –– [test suite](series_test.rb)
 * [Sieve of Eratosthenes](sieve.rb) –– [test suite](sieve_test.rb)
 * [Octal](octal.rb) –– [test suite](octal_test.rb)
-* Trinary
+* [Trinary](trinary.rb) –– [test suite](trinary_test.rb)
 * Sum of Multiples
 * [Anagrams](anagram.rb) –– [test suite](anagram_test.rb)
 * Point Mutations
