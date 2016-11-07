@@ -5,22 +5,17 @@
 # print "FizzBuzz".
 
 def fizzbuzz(starting_number, ending_number)
-  result = []
-
   starting_number.upto(ending_number) do |number|
-    case
-    when number % 3 == 0 && number % 5 == 0
-      result << "FizzBuzz"
-    when number % 3 == 0
-      result << "Fizz"
-    when number % 5 == 0
-      result << "Buzz"
-    else
-      result << number
-    end
-  end
+    fizz = (number % 3 == 0)
+    buzz = (number % 5 == 0)
 
-  puts result.join(', ')
+    puts case
+         when fizz && buzz then "FizzBuzz"
+         when fizz         then "Fizz"
+         when buzz         then "Buzz"
+         else number
+         end
+  end
 end
 
 fizzbuzz(1, 15)
