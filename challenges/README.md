@@ -6,7 +6,7 @@
 * [Sieve of Eratosthenes](sieve.rb) –– [test suite](sieve_test.rb)
 * [Octal](octal.rb) –– [test suite](octal_test.rb)
 * [Trinary](trinary.rb) –– [test suite](trinary_test.rb)
-* Sum of Multiples
+* [Sum of Multiples](sum_of_multiples.rb)
 * [Anagrams](anagram.rb) –– [test suite](anagram_test.rb)
 * Point Mutations
 * Word Count
