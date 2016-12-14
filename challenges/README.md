@@ -8,7 +8,7 @@
 * [Trinary](trinary.rb) –– [test suite](trinary_test.rb)
 * [Sum of Multiples](sum_of_multiples.rb)
 * [Anagrams](anagram.rb) –– [test suite](anagram_test.rb)
-* Point Mutations
+* [Point Mutations](point_mutations.rb)
 * Word Count
 * Perfect Number
 * [Roman Numerals](roman_numerals.rb) –– [test suite](roman_numerals_test.rb)
