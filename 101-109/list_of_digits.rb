@@ -3,6 +3,20 @@
 # All of the tests below should print true.
 
 def digit_list(number)
+  # Brute force solution:
+
+  # digits = []
+  #
+  # loop do
+  #   number, remainder = number.divmod(10)
+  #   digits.unshift(remainder)
+  #   break if number == 0
+  # end
+  #
+  # digits
+
+  # Idiomatic Ruby solution:
+  
   # number.to_s.chars.map { |num| num.to_i }
   number.to_s.chars.map(&:to_i)
 end
