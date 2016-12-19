@@ -5,6 +5,12 @@
 # is odd.
 
  def is_odd?(number)
+  # Using Numeric#remainder
+  # number.remainder(2) == 1 || -1
+
+  # Using Numberic#remainder and the absolute value of the parameter
+  # number.abs.remainder(2) == 1
+
    number % 2 == 1
  end
 
