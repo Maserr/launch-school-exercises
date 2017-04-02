@@ -16,7 +16,6 @@
 ## Easy 2
 
 * Odd words
-* Kindergarten Garden
 * Scrabble Score
 * Beer Song
 
@@ -58,3 +57,7 @@
 * Bowling
 * Rail Fence Cipher
 * Poker
+
+## Advanced 2
+
+* Kidergarten Garden
