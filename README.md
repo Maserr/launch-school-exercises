@@ -3,7 +3,7 @@
 Solutions to the extra coding exercises in the program.
 
 * [Ruby Basics](/ruby-basics/README.md)
-* [101 - 109 Small Problems](/101-109/README.md)
+* [101 - Small Problems](/101/README.md)
 * [120 - Object Oriented Programming](/120/README.md)
 * [130 - Ruby Foundations: More Topics](130/README.md)
 * [Challenges](/challenges/README.md)
