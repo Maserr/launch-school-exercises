@@ -9,7 +9,7 @@
 * [Sum of Multiples](sum_of_multiples.rb)
 * [Anagrams](anagram.rb) –– [test suite](anagram_test.rb)
 * [Point Mutations](point_mutations.rb)
-* Word Count
+* [Word Count](word_count.rb) –– [test suite](word_count_test.rb)
 * Perfect Number
 * [Roman Numerals](roman_numerals.rb) –– [test suite](roman_numerals_test.rb)
 
