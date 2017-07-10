@@ -23,10 +23,27 @@ class Series
   end
 
   def slices(length)
-    if length > @digits.length
-      raise(ArgumentError, "length passed greater than string size")
+    if length > @digits.size
+      raise(ArgumentError, 'length passed greater than string size')
     end
 
     @digits.each_cons(length).to_a
   end
+
+  # Alternatives
+
+  # def slices(length)
+  #   if length > @digits.size
+  #     raise(ArgumentError, 'length passed greater than string size')
+  #   end
+  #
+  #   series = []
+  #
+  #   @digits.each_index do |index|
+  #     serie = @digits.slice(index, length)
+  #     series << serie if serie.size == length
+  #   end
+  #
+  #   series
+  # end
 end
