@@ -25,41 +25,54 @@
 # list of primes.
 
 class Sieve
-  def initialize(n)
-    @limit = n
-    @numbers = Array.new(n + 1, true)
-    @numbers[0] = false
-    @numbers[1] = false
+  def initialize(limit)
+    @limit = limit
+    @numbers = Array.new(limit + 1) { |number| number }
+    @numbers[0] = nil
+    @numbers[1] = nil
   end
 
   def primes
-    primes = []
-
-    @numbers.each_with_index do |value, i|
-      if value
-        count = 1
-        (i ** 2).step(@limit, i * count) do |j|
-          @numbers[j] = false
-          count += 1
-        end
-      end
-    end
-
-    @numbers.each_with_index do |value, index|
-      primes.push(index) if value
-    end
-
-    primes
+    @numbers.each do |number|
+      next unless number
+      (number**2).step(@limit, number) { |i| @numbers[i] = nil }
+    end.compact
   end
 end
+
+# OTHER SOLUTIONS
+
+# class Sieve
+#   def initialize(limit)
+#     @limit = limit
+#     @numbers = Array.new(limit + 1, true)
+#     @numbers[0] = false
+#     @numbers[1] = false
+#   end
+#
+#   def primes
+#     primes = []
+#
+#     @numbers.each_with_index do |value, index|
+#       next unless value
+#       (index**2).step(@limit, index) { |i| @numbers[i] = false }
+#     end
+#
+#     @numbers.each_with_index do |value, index|
+#       primes.push(index) if value
+#     end
+#
+#     primes
+#   end
+# end
 
 # Using class prime
 #
 # require 'prime'
 #
 # class Sieve
-#   def initialize(number)
-#     @limit = number
+#   def initialize(limit)
+#     @limit = limit
 #   end
 #
 #   def primes
