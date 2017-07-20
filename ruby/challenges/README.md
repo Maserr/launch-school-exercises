@@ -2,16 +2,16 @@
 
 ## Easy 1
 
-* [Series](series.rb) –– [test suite](series_test.rb)
-* [Sieve of Eratosthenes](sieve.rb) –– [test suite](sieve_test.rb)
-* [Octal](octal.rb) –– [test suite](octal_test.rb)
-* [Trinary](trinary.rb) –– [test suite](trinary_test.rb)
-* [Sum of Multiples](sum_of_multiples.rb)
-* [Anagrams](anagram.rb) –– [test suite](anagram_test.rb)
-* [Point Mutations](point_mutations.rb)
-* [Word Count](word_count.rb) –– [test suite](word_count_test.rb)
+* [Series](series.rb) — [test suite](series_test.rb)
+* [Sieve of Eratosthenes](sieve.rb) — [test suite](sieve_test.rb)
+* [Octal](octal.rb) — [test suite](octal_test.rb)
+* [Trinary](trinary.rb) — [test suite](trinary_test.rb)
+* [Sum of Multiples](sum_of_multiples.rb) — [test suite](sum_of_multiples_test.rb)
+* [Anagrams](anagram.rb) — [test suite](anagram_test.rb)
+* [Point Mutations](point_mutations.rb) — [test suite](point_mutations_test.rb)
+* [Word Count](word_count.rb) — [test suite](word_count_test.rb)
 * Perfect Number
-* [Roman Numerals](roman_numerals.rb) –– [test suite](roman_numerals_test.rb)
+* [Roman Numerals](roman_numerals.rb) — [test suite](roman_numerals_test.rb)
 
 ## Easy 2
 
