@@ -1,4 +1,4 @@
-# Launch School – 101 Small Problems
+# Ruby Small Problems
 
 ## Easy 1
 

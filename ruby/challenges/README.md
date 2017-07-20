@@ -1,4 +1,4 @@
-# Launch School Exercises – Challenges
+# Ruby Challenges
 
 ## Easy 1
 

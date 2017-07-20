@@ -1,4 +1,4 @@
-# Launch School Exercises – 120. Object Oriented Programming
+# Object Oriented Programming Ruby Exercises
 
 ## OO Basics: Classes and Objects 1
 

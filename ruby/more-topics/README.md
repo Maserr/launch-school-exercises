@@ -1,4 +1,4 @@
-# Launch School Exercises – 130. Ruby Foundations: More topics
+# More Topics on Ruby
 
 ## Easy 1
 
