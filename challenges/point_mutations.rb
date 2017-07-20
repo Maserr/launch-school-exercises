@@ -1,3 +1,4 @@
+##
 # Write a program that can calculate the Hamming difference between two DNA
 # strands.
 #
@@ -28,20 +29,17 @@
 # The Hamming distance is only defined for sequences of equal length. If you
 # have two sequences of equal length, you should compute the Hamming distance
 # over the shorter length.
-
+#
 class DNA
   def initialize(strand)
     @strand = strand
   end
 
-  def hamming_distance(mutation)
-    shorter_strand, longer_strand = [@strand, mutation].sort_by(&:size)
-    distance = 0
+  def hamming_distance(other_strand)
+    combined_strand = @strand.chars.zip(other_strand.chars)
 
-    shorter_strand.each_char.with_index do |_, base|
-      distance += 1 if shorter_strand[base] != longer_strand[base]
+    combined_strand.count do |nucleotides|
+      nucleotides.first != nucleotides.last unless nucleotides.include?(nil)
     end
-
-    distance
   end
 end
