@@ -25,3 +25,16 @@
 -   [The End is Near But Not Here](penultimate.js)
 -   [After Midnight Part 1](after_midnight1.js)
 -   [After Midnight Part 2](after_midnight2.js)
+
+## Medium 1
+
+-   [Logical Operation](logical_operation.js)
+-   [Conditional Loop](conditional_loop.js)
+-   [Multiplication Table](multiplication_table.js)
+-   [Selected Columns](selected_columns.js)
+-   [Counter 1](counter1.js)
+-   [Counter 2](counter2.js)
+-   [Counter 3](counter3.js)
+-   [Logger](logger.js)
+-   [Invoice](invoice.js)
+-   [Product of Sums](product_of_sums.js)
