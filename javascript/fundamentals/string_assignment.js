@@ -7,7 +7,7 @@ console.log(name, saveName); // => 'Bob Bob'
 
 // ANSWER: it logs 'Bob Bob'. Both variables `name` and `saveName` references to
 // the same primitive string 'Bob'. In line 5 the variable `name` invokes the
-// `.toUpperCase()` method but it doesn't change or mutate the value. That's
+// `toUpperCase()` method but it doesn't change or mutate the value. That's
 // because strings are primitive types and they are immutable in JavaScript.
 
 
