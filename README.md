@@ -13,7 +13,7 @@ Solutions to the extra coding exercises in the program.
 
 ## JavaScript
 
--   [Basics](/javascript/fundamentals/README.md)
+-   [Fundamentals](/javascript/fundamentals/README.md)
 -   Small Problems
 -   Front-end
 -   Challenges

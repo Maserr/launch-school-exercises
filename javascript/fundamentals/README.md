@@ -13,6 +13,19 @@
 -   [Convert a Number to a String](convert_number_to_string.js)
 -   [Convert a Signed Number to a String](convert_signed_number_to_string.js)
 
+## Functions
+
+-   [Local vs Global](local_vs_global.js)
+-   [Shadowing](shadowing.js)
+-   [Accessing Global](accessing_global.js)
+-   [Variable Lookup](variable_lookup.js)
+-   [Accidentally Global](accidentally_global.js)
+-   [Pass by Value](pass_by_value.js)
+-   [Pass by Value with Shadowing](pass_by_value_with_shadowing.js)
+-   [Passing Objects](passing_objects.js)
+-   [Hoisting Variables](hoisting_variables.js)
+-   [Hoisting Functions](hoisting_functions.js)
+
 ## Objects
 
 -   [Literal](literal.js)
