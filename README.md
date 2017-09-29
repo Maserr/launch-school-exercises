@@ -14,6 +14,6 @@ Solutions to the extra coding exercises in the program.
 ## JavaScript
 
 -   [Fundamentals](/javascript/fundamentals/README.md)
--   Small Problems
+-   [Small Problems](/javascript/small_problems/README.md)
 -   Front-end
 -   Challenges
