@@ -65,7 +65,7 @@
 -   Counting Up
 -   Name Swapping
 -   Sequence Count
--   Reverse It Part 1
+-   [Reverse It Part 1](reverse_it.js)
 -   Reverse It Part 2
 
 ## List Processing
