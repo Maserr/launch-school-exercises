@@ -91,7 +91,8 @@
 -   Staggered Caps Part 1
 -   Staggered Caps Part 2
 -   How long are you
--   Search Word Part 1
+-   [Search Word Part 1](search_word.js)
+    -   Further Exploration
 -   Search Word Part 2
 
 ## Medium Problems 1
