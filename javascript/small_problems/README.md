@@ -31,7 +31,8 @@
 
 ## Easy 3
 
--   How Old is Teddy
+-   [How Old is Teddy](how_old_is_teddy.js)
+    -   Further Exploration
 -   Searching 101
 -   When Will I Retire
 -   Palindromic Strings Part 1
