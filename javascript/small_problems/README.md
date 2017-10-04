@@ -50,7 +50,7 @@
 -   Halvsies
 -   Find the Duplicate
 -   Combine Two Lists
--   Multiplicate Average
+-   [Multiplicative Average](multiplicative_average.js)
 -   Multiply Lists
 -   Digits List
 -   How Many
