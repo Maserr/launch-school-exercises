@@ -33,7 +33,7 @@
 
 -   [How Old is Teddy](how_old_is_teddy.js)
     -   Further Exploration
--   Searching 101
+-   [Searching 101](searching101.js)
 -   When Will I Retire
 -   Palindromic Strings Part 1
 -   Palindromic Strings Part 2
@@ -129,7 +129,7 @@
 
 ## Interpretive Problem Solving
 
--   1000 Lights
+-   [1000 Lights](1000_lights.js)
 -   Diamonds
 -   Now I Know My ABCs
 -   Caesar Cipher
