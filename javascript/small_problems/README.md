@@ -20,7 +20,7 @@
 
 -   Ddaaiillyy ddoouubbllee
 -   Bannerizer
--   Stringy Strings
+-   [Stringy Strings](stringy_strings.js)
 -   Fibonacci Number Location by Length
 -   Right Triangles
 -   Madlibs
