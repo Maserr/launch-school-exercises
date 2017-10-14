@@ -6,10 +6,10 @@
 -   Sieve of Eratosthenes
 -   Octal
 -   Trinary
--   Sum of Multiples
+-   [Sum of Multiples](sum_of_multiples.js)
 -   Anagrams
 -   Point Mutations
--   Word Count
+-   [Word Count](word_count.js)
 -   Perfect Number
 -   Roman Numerals
 
