@@ -26,6 +26,20 @@
 -   [Hoisting Variables](hoisting_variables.js)
 -   [Hoisting Functions](hoisting_functions.js)
 
+## Arrays
+
+-   Array Copy Part 1
+-   Array Copy Part 2
+-   Array Concat Part 1
+-   Array Concat Part 2
+-   Array Pop and Push
+-   Array and String Reverse
+-   Array Shift and Unshift
+-   Array Slice and Unshift
+-   Array Slice and Splice
+-   Oddities
+-   Array Comparison
+
 ## Objects
 
 -   [Literal](literal.js)
@@ -51,3 +65,13 @@
 -   [Logger](logger.js)
 -   [Invoice](invoice.js)
 -   [Product of Sums](product_of_sums.js)
+
+## Medium 2
+
+-   Defaults
+-   Equal
+-   Amount Payable
+-   Caller
+-   What's My Value?
+-   Length
+-   The Red Pill
