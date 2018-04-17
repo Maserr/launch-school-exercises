@@ -13,7 +13,7 @@
 -   [Leap Years Part 1](leap_years1.js)
     -   Further Exploration
 -   [Leap Years Part 2](leap_years2.js)
--   Multiples of 3 and 5
+-   [Multiples of 3 and 5](multiples3and5.js)
 -   ASCII String Value
 
 ## Easy 2
