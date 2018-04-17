@@ -2,7 +2,7 @@
 
 ## DOM Traversing, Querying, and Manipulation
 
--   Counting Nodes
+-   [Counting Nodes](counting-nodes.js)
 -   Child Nodes
 -   Tracing the DOM Tree
 -   Tree Slicing
