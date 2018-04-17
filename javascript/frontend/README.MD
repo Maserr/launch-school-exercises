@@ -1,5 +1,18 @@
 # JavaScript - Frontend
 
+## DOM Traversing, Querying, and Manipulation
+
+-   Counting Nodes
+-   Child Nodes
+-   Tracing the DOM Tree
+-   Tree Slicing
+-   Coloring
+-   Node Swap
+-   Nodes to Array
+-   Arrays to Nodes
+-   Work Back
+-   HTML Imaging
+
 ## Miscellaneous GUI Apps
 
 -   Exotic Animals
