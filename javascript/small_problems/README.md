@@ -14,7 +14,7 @@
     -   Further Exploration
 -   [Leap Years Part 2](leap_years2.js)
 -   [Multiples of 3 and 5](multiples3and5.js)
--   ASCII String Value
+-   [ASCII String Value](ascii_string_value.js)
 
 ## Easy 2
 
