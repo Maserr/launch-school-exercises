@@ -5,7 +5,7 @@
 -   [Counting Nodes](counting-nodes.js)
 -   Child Nodes
 -   [Tracing the DOM Tree](tracing-the-dom-tree.js)
--   Tree Slicing
+-   [Tree Slicing](tree-slicing.js)
 -   Coloring
 -   Node Swap
 -   Nodes to Array
