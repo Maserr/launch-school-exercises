@@ -18,7 +18,7 @@
 
 ## Easy 2
 
--   Ddaaiillyy ddoouubbllee
+-   [Ddaaiillyy ddoouubbllee](daily-double.js)
 -   Bannerizer
 -   [Stringy Strings](stringy_strings.js)
 -   Fibonacci Number Location by Length
