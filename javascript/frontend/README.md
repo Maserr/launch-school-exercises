@@ -8,7 +8,7 @@
 -   [Tree Slicing](tree-slicing.js)
 -   [Coloring](coloring.js)
 -   [Node Swap](node-swap.js)
--   Nodes to Array
+-   [Nodes to Array](nodes-to-array.js)
 -   Arrays to Nodes
 -   Work Back
 -   HTML Imaging
