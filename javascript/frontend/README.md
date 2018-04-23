@@ -7,7 +7,7 @@
 -   [Tracing the DOM Tree](tracing-the-dom-tree.js)
 -   [Tree Slicing](tree-slicing.js)
 -   [Coloring](coloring.js)
--   Node Swap
+-   [Node Swap](node-swap.js)
 -   Nodes to Array
 -   Arrays to Nodes
 -   Work Back
