@@ -9,7 +9,6 @@
 -   [Node Swap](node-swap.js)
 -   [Nodes to Array](nodes-to-array.js)
 -   [Array to Nodes](array-to-nodes.js)
--   HTML Imaging
 
 ## Miscellaneous GUI Apps
 
