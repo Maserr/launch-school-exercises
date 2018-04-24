@@ -3,14 +3,12 @@
 ## DOM Traversing, Querying, and Manipulation
 
 -   [Counting Nodes](counting-nodes.js)
--   Child Nodes
 -   [Tracing the DOM Tree](tracing-the-dom-tree.js)
 -   [Tree Slicing](tree-slicing.js)
 -   [Coloring](coloring.js)
 -   [Node Swap](node-swap.js)
 -   [Nodes to Array](nodes-to-array.js)
 -   [Array to Nodes](array-to-nodes.js)
--   Work Back
 -   HTML Imaging
 
 ## Miscellaneous GUI Apps
