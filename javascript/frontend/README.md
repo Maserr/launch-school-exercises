@@ -10,6 +10,18 @@
 -   [Nodes to Array](nodes-to-array.js)
 -   [Array to Nodes](array-to-nodes.js)
 
+## Events and Asynchronous Programming
+
+-   Randomizer
+-   Reverse Engineer
+-   Bold Element + Custom
+-   Buggy Code
+-   Context Menus
+-   Selection Filters
+-   Article Highlighter
+-   Delegate Event Function
+-   Events Tracker
+
 ## Miscellaneous GUI Apps
 
 -   Exotic Animals
@@ -29,3 +41,13 @@
 -   Atuomatic Tab Forwarding
 -   Serializing Forms
 -   Multiple Choice Quiz
+
+## Making HTTP Requests
+
+-   Exploring the Booking App
+-   Getting Schedules
+-   Adding Staff
+-   Adding Schedules
+-   Booking Time Slots
+-   Viewing Bookings
+-   Cancellations
