@@ -12,15 +12,14 @@
 
 ## Events and Asynchronous Programming
 
--   Randomizer
--   Reverse Engineer
--   Bold Element + Custom
--   Buggy Code
--   Context Menus
--   Selection Filters
--   Article Highlighter
--   Delegate Event Function
--   Events Tracker
+-   [Randomizer](randomizer.js)
+-   [Reverse Engineer](reverse-engineer.js)
+-   [Bold Element + Custom](bold-element-custom.js)
+-   [Context Menus](context-menus.js)
+-   [Selection Filters](selection-filters.js)
+-   [Article Highlighter](article-highlighter.js)
+-   [Delegate Event Function](delegate-event-function.js)
+-   [Events Tracker](events-tracker.js)
 
 ## Miscellaneous GUI Apps
 
